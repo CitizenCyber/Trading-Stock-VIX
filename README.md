@@ -1,2 +1,3 @@
 # Trading-Stock-VIX
-Displays realized Historical Volatility (HV) of a stock/index
+Displays realized Historical Volatility (HV) of a stock/index.
+(Work in progress)
